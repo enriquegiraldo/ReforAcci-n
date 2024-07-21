@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReforAccion3</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_prompt">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="welcome_message">Bienvenido a ReforAccion</string>
+    <string name="register_activity">Registrar Actividad</string>
+    <string name="view_statistics">Ver Estadísticas</string>
+    <string name="reforestation_tips">Consejos de Reforestación</string>
+    <string name="location_hint">Ubicación</string>
+    <string name="tree_type_hint">Tipo de árbol</string>
+    <string name="quantity_hint">Cantidad</string>
+    <string name="date_hint">Fecha (DD/MM/AAAA)</string>
+    <string name="submit_button">Registrar Actividad</string>
+    <string name="total_trees">Árboles plantados: %1$d</string>
+    <string name="total_co2">CO2 absorbido: %1$d kg</string>
+    <string name="general_progress">Progreso general: %1$d%%</string>
+    <string name="back_button">Volver</string>
+    <string name="tips_title">Consejos de Reforestación</string>
+    <string name="tips_content">Aquí van los consejos de reforestación...</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="statistics_title">Estadísticas de Reforestación</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="registrar_button">Registrar</string>
+    <string name="volver_button">Volver</string>
+    <string name="tips_hint">Write your tips here...</string>
+    <string name="save_button">Save</string>
+    <string name="change_background">Cambiar Fondo</string>
+    <string name="register_title">Registro</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="register_button">Registrar</string>
+    <string name="full_name_hint">Nombre completo</string>
+
+
+</resources>

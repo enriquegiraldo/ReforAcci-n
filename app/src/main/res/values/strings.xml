@@ -22,6 +22,7 @@
     <string name="tips_content">Aquí van los consejos de reforestación...</string>
     <string name="login_title">Iniciar sesión</string>
     <string name="statistics_title">Estadísticas de Reforestación</string>
+<<<<<<< HEAD
     <string name="nombre_hint">Nombre</string>
     <string name="confirm_password_hint">Confirmar contraseña</string>
     <string name="registrar_button">Registrar</string>
@@ -33,6 +34,9 @@
     <string name="username_hint">Nombre de usuario</string>
     <string name="register_button">Registrar</string>
     <string name="full_name_hint">Nombre completo</string>
+=======
+
+>>>>>>> 7cea1a74fa8cb21d325a1cbfa043365e9b605cd0
 
 
 </resources>

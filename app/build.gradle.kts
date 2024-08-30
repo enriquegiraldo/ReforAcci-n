@@ -35,9 +35,15 @@ dependencies {
 
     implementation(libs.appcompat)
     implementation(libs.material)
+<<<<<<< HEAD
     implementation(libs.constraintlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
 
+=======
+    testImplementation(libs.junit)
+    androidTestImplementation(libs.ext.junit)
+    androidTestImplementation(libs.espresso.core)
+>>>>>>> 7cea1a74fa8cb21d325a1cbfa043365e9b605cd0
 }

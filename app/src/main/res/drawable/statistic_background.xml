@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape>
@@ -13,3 +14,9 @@
             android:gravity="center"/>
     </item>
 </layer-list>
+=======
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/statistic_background_color" />
+        <corners android:radius="8dp" />
+    </shape>
+>>>>>>> 7cea1a74fa8cb21d325a1cbfa043365e9b605cd0

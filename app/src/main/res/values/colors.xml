@@ -11,9 +11,12 @@
     <color name="primary_text_color">#000000</color>
     <color name="background_color">#F5F5F5</color>
     <color name="statistic_background_color">#FFFFFF</color>
+<<<<<<< HEAD
     <color name="primaryColor">#6200EE</color>
     <color name="primaryTextColor">#000000</color>
     <color name="secondaryColor">#03DAC5</color>
 
+=======
+>>>>>>> 7cea1a74fa8cb21d325a1cbfa043365e9b605cd0
 
 </resources>

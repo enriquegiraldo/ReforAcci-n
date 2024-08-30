@@ -26,3 +26,19 @@ El diagrama muestra una jerarquía de clases con una clase base **BaseActivity**
 - **Enfoque Ambiental**: Las funcionalidades se centran en actividades eco-amigables y seguimiento del impacto ambiental.
 
 ![image](https://github.com/user-attachments/assets/1eec290f-2b2f-490e-9bb5-29da37927620)
+
+# App Funcionando
+
+Este es un proyecto que incluye una demostración en video.
+
+[![Demostración de Video](https://img.youtube.com/vi/3nUx8WuSPUE/0.jpg)](https://youtu.be/3nUx8WuSPUE?si=ciRbAJTr6p_kZrZa)
+
+Haz clic en la imagen para ver el video en YouTube.
+
+# Mi Proyecto
+
+Aquí tienes otro video de demostración:
+
+[![Demostración de Video](https://img.youtube.com/vi/wl3gO2e-axQ/0.jpg)](https://youtu.be/wl3gO2e-axQ)
+
+Haz clic en la imagen para ver el video en YouTube.
